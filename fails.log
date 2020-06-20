@@ -1,0 +1,71 @@
+2020-06-20 22:14:25.386 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691265386; nextExpiration=1592691265385; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:26.387 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691266387; nextExpiration=1592691266386; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:27.389 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691267389; nextExpiration=1592691267387; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:28.390 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691268390; nextExpiration=1592691268389; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:29.392 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691269392; nextExpiration=1592691269390; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:30.393 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691270393; nextExpiration=1592691270392; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:31.395 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=0; now=1592691271394; nextExpiration=1592691271393; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:31.658 DEBUG 28725 --- [io-443-Acceptor] o.apache.tomcat.util.threads.LimitLatch  : Counting up[https-jsse-nio-443-Acceptor] latch=1
+2020-06-20 22:14:31.661 DEBUG 28725 --- [-nio-443-exec-4] o.a.tomcat.util.net.SecureNioChannel     : The SNI host name extracted for connection [java.nio.channels.SocketChannel[connected local=/212.83.51.85:443 remote=/109.40.129.48:15710]] was [erika.node.veedeo.me]
+2020-06-20 22:14:31.664 DEBUG 28725 --- [-nio-443-exec-4] org.apache.tomcat.util.net.NioEndpoint   : Registered read interest for [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@59123e97:org.apache.tomcat.util.net.SecureNioChannel@57d5dbc5:java.nio.channels.SocketChannel[connected local=/212.83.51.85:443 remote=/109.40.129.48:15710]]
+2020-06-20 22:14:32.665 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691272665; nextExpiration=1592691272394; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:33.667 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691273667; nextExpiration=1592691273665; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:34.668 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691274668; nextExpiration=1592691274667; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:34.738 DEBUG 28725 --- [alina-utility-1] org.apache.catalina.session.ManagerBase  : Start expire sessions StandardManager at 1592691274737 sessioncount 0
+2020-06-20 22:14:34.738 DEBUG 28725 --- [alina-utility-1] org.apache.catalina.session.ManagerBase  : End expire sessions StandardManager processingTime 1 expired sessions: 0
+2020-06-20 22:14:35.669 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691275669; nextExpiration=1592691275668; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:36.670 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691276670; nextExpiration=1592691276669; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:37.672 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691277672; nextExpiration=1592691277670; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:38.673 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691278673; nextExpiration=1592691278672; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:39.675 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691279674; nextExpiration=1592691279673; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:40.675 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691280675; nextExpiration=1592691280674; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:41.676 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691281676; nextExpiration=1592691281675; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:42.678 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691282678; nextExpiration=1592691282676; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:43.679 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691283679; nextExpiration=1592691283678; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:44.681 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691284680; nextExpiration=1592691284679; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:45.682 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691285682; nextExpiration=1592691285681; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:46.683 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691286683; nextExpiration=1592691286682; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:47.685 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691287684; nextExpiration=1592691287683; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:48.686 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691288686; nextExpiration=1592691288684; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:49.687 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691289687; nextExpiration=1592691289686; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:50.689 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691290688; nextExpiration=1592691290687; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:51.689 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691291689; nextExpiration=1592691291688; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:52.691 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691292691; nextExpiration=1592691292689; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:53.692 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691293692; nextExpiration=1592691293691; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:54.694 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691294694; nextExpiration=1592691294692; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:55.695 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691295695; nextExpiration=1592691295694; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:56.697 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691296696; nextExpiration=1592691296695; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:57.698 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691297698; nextExpiration=1592691297696; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:58.699 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691298698; nextExpiration=1592691298698; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:14:59.700 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691299700; nextExpiration=1592691299698; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:15:00.701 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691300701; nextExpiration=1592691300700; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:15:01.703 DEBUG 28725 --- [43-ClientPoller] org.apache.tomcat.util.net.NioEndpoint   : timeout completed: keys processed=1; now=1592691301702; nextExpiration=1592691301701; keyCount=0; hasEvents=false; eval=false
+2020-06-20 22:15:01.819 DEBUG 28725 --- [-nio-443-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Error during SSL handshake
+
+java.io.IOException: EOF during handshake.
+	at org.apache.tomcat.util.net.SecureNioChannel.handshakeUnwrap(SecureNioChannel.java:488) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SecureNioChannel.handshake(SecureNioChannel.java:238) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1568) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+
+2020-06-20 22:15:01.820 DEBUG 28725 --- [-nio-443-exec-3] o.apache.coyote.http11.Http11Processor   : Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@59123e97:org.apache.tomcat.util.net.SecureNioChannel@57d5dbc5:java.nio.channels.SocketChannel[connected local=/212.83.51.85:443 remote=/109.40.129.48:15710]], Status in: [CONNECT_FAIL], State out: [CLOSED]
+2020-06-20 22:15:01.820 DEBUG 28725 --- [-nio-443-exec-3] o.apache.tomcat.util.threads.LimitLatch  : Counting down[https-jsse-nio-443-exec-3] latch=1
+2020-06-20 22:15:01.820 DEBUG 28725 --- [-nio-443-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Calling [org.apache.tomcat.util.net.NioEndpoint@606b19c8].closeSocket([org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@59123e97:org.apache.tomcat.util.net.SecureNioChannel@57d5dbc5:java.nio.channels.SocketChannel[connected local=/212.83.51.85:443 remote=/109.40.129.48:15710]])
+2020-06-20 22:15:01.821 ERROR 28725 --- [-nio-443-exec-3] org.apache.tomcat.util.net.NioEndpoint   : Failed to close channel
+
+java.io.IOException: Invalid close state, will not send network data.
+	at org.apache.tomcat.util.net.SecureNioChannel.close(SecureNioChannel.java:545) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SecureNioChannel.close(SecureNioChannel.java:560) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doClose(NioEndpoint.java:1172) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SocketWrapperBase.close(SocketWrapperBase.java:396) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.NioEndpoint$Poller.cancelledKey(NioEndpoint.java:684) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.36.jar:9.0.36]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
