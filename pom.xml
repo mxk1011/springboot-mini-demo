@@ -18,6 +18,8 @@
 		<java.version>11</java.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
+		<property name="https.protocols" value="TLSv1.1,TLSv1.2"/>
+		<https.protocols>TLSv1.1,TLSv1.2</https.protocols>
 	</properties>
 
 	<dependencies>
